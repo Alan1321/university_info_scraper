@@ -21,10 +21,10 @@ Welcome to this project! To get started, follow the steps below:
 Run the `main.py` script to execute the main functionality of the project. --> print data to terminal
 
 ```bash
-python main.py
+python3 main.py
 ```
 
 Run the `main.py > results.txt` script to execute the main functionality of the project. --> saves data to results.txt file
 
 ```bash
-python main.py > results.txt
+python3 main.py > results.txt
