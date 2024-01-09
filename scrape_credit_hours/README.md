@@ -14,7 +14,7 @@ Welcome to this project! To get started, follow the steps below:
     '''python
     # constants.py
     '''
-    Replace term in constants.py with fall or sprng and the year you want the data from
+    Replace TERM in constants.py with fall or sprng and the year you want the data from
 
 ## Running the Project
 
