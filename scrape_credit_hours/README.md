@@ -18,8 +18,16 @@ Welcome to this project! To get started, follow the steps below:
 
 ## Running the Project
 
-Run the `main.py` script to execute the main functionality of the project.
+Run the `main.py` script to execute the main functionality of the project. --> print data to terminal
 
 ```bash
 python main.py
+```
+
+Run the `main.py` script to execute the main functionality of the project. --> saves data to results.txt file
+
+```bash
+python main.py > results.txt
+
+
 
