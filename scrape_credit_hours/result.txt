@@ -1,0 +1,361 @@
+Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=ACC
+Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=AES
+T    10533  100 01     INTRODUCTION TO SPACE SCIENCE     1.0 ####    0     2000    0      TBA     TBA             TBA   TBA        STAFF                                                                
+T    12134  490 01     ST: ADVANCED FORECASTING          1.0   16    6       10    0      T       04:20PM 06:20PM SWI   103        Magee Kathleen                                                       
+T    10566  498 01     RESEARCH & PROF DEV CAPSTONE      1.0   25   17        8    0      F       01:00PM 02:00PM CRH   4065       Griffin Robert                                                       
+T    10578  780 01     SEMINAR                           1.0   15    6        9    0      W       01:00PM 02:20PM CRH   4065       Mecikalski John                                                      
+T    10579  781 01     STUDENT SEMINAR                   1.0   15   10        5    0      W       01:00PM 02:20PM CRH   4065       Mecikalski John                                                      
+A    10580  782 01     PROFESSIONAL DEVELOPMENT          1.0   20    7       13    0      TBA     TBA             ONLN  ONLINE     Christopher Sundar                                                   
+Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=AHS
+Y    11992  300 01     CAREER PREPARATION & PLANNING     1.0   50   11       39    0      T       11:20AM 12:15PM MOR   146        McDavid Nicole                                                       
+Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=ARH
+Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=ARS
+Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=AST
+Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=BLS
+Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=BSE
+T    10583  621 01     INT BIOINFORMATICS:COMP LAB AP    1.0    5    0        5    0      TBA     TBA             TBA   TBA        Cruz-Vera Luis                                                       
+T    10611  780 01     BIOTECHNOLOGY SCI/ENG SEMINAR     1.0   10    6        4    0      TBA     TBA             TBA   TBA        Sysoeva Tatyana                                                      
+Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=BUS
+A    10990  300 01     BUSINESS TRANSITIONS              1.0   30   30        0    0      TBA     TBA             ONLN  ONLINE     Brown Jean                                                           
+T    10991  300 02     BUSINESS TRANSITIONS              1.0   30   18       12    0      MW      11:20AM 12:15PM BAB   109        Foroughi Mona                                                        
+Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=BYS
+Y    10082  121 01     LABORATORY                        1.0   24   23        1    0      F       10:30AM 12:30PM SST   230        Niemiller Katharina                                                  
+Y    10083  121 02     LABORATORY                        1.0   24   14       10    0      F       02:15PM 04:15PM SST   230        Niemiller Katharina                                                  
+A    10084  121 03     LABORATORY                        1.0   50   36       14    0      TBA     TBA             ONLN  ONLINE     Niemiller Katharina                                                  
+A    10085  121 04     LABORATORY                        1.0   50   22       28    0      TBA     TBA             ONLN  ONLINE     Niemiller Katharina                                                  
+T    10086  121 05     LABORATORY                        1.0   24   23        1    0      R       12:20PM 02:20PM SST   230        Niemiller Katharina                                                  
+T    10087  121 06     LABORATORY                        1.0   24   23        1    1      R       02:40PM 04:40PM SST   230        Niemiller Katharina                                                  
+Y    10088  122 01     ORGANISMAL BIOLOGY LAB            1.0   24   14       10    0      W       01:00PM 03:00PM SST   228        Niemiller Katharina                                                  
+Y    10089  122 02     ORGANISMAL BIOLOGY LAB            1.0   24   15        9    0      R       09:40AM 11:40AM SST   228        Niemiller Katharina                                                  
+A    10090  122 03     ORGANISMAL BIOLOGY LAB            1.0   50   22       28    0      TBA     TBA             ONLN  ONLINE     Niemiller Katharina                                                  
+A    10091  122 04     ORGANISMAL BIOLOGY LAB            1.0   50   19       31    0      TBA     TBA             ONLN  ONLINE     Niemiller Katharina                                                  
+Z    10092  122 05     ORGANISMAL BIOLOGY LAB            1.0    0    0 Canceled    0      TBA     TBA             TBA   TBA        STAFF                                                                
+T    10093  122 H05    HON ORGANISMAL BIOLOGY LAB        1.0   12    5        7    0      T       04:20PM 06:20PM SST   228        Cooper Judy                                                          
+T    10109  221 01     LABORATORY                        1.0   20   14        6    0      MW      02:40PM 04:40PM SST   303        Magnuson Roy                                                         
+T    10110  221 02     LABORATORY                        1.0   20   18        2    0      TR      01:40PM 03:40PM SST   303        Magnuson Roy                                                         
+T    10111  221 03     LABORATORY                        1.0   20    2       18    0      MW      05:15PM 07:15PM SST   303        Magnuson Roy                                                         
+T    10128  362 01     GENERAL BIOCHEMISTRY LAB          1.0   10    9        1    0      W       04:20PM 07:20PM SST   321        Ogungbe Ifedayo                                                      
+T    10129  362 02     GENERAL BIOCHEMISTRY LAB          1.0   10    9        1    0      M       04:20PM 07:20PM SST   321        Ogungbe Ifedayo                                                      
+T    10131  365 01     GENERAL BIOCHEMISTRY LAB II       1.0    7    3        4    0      R       04:20PM 07:20PM SST   321        Love-Rutledge Sharifa                                                
+T    12089  365 02     GENERAL BIOCHEMISTRY LAB II       1.0   12    6        6    0      R       01:00PM 04:00PM SST   321        Love-Rutledge Sharifa                                                
+T    10135  433 01     RESEARCH SEMINAR ATTENDANCE       1.0   30   14       16    0      F       12:00PM 01:00PM SST   109        Sysoeva Tatyana                                                      
+T    10246  690 01     SEMINAR                           1.0   20    5       15    0      F       12:00PM 01:00PM SST   109        Sysoeva Tatyana                                                      
+T    12426  699 04     MASTER'S THESIS                   1.0    1    1        0    0      TBA     TBA             TBA   TBA        Culumber Zachary                                                     
+Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=CE
+T    11802  373 01     SOIL MECHANICS LAB                1.0   15    2       13    0      F       09:00AM 12:00PM OKT   S224       Al-Hamdan Ashraf                                                     
+T    11803  373 02     SOIL MECHANICS LAB                1.0   15   12        3    0      R       01:00PM 04:00PM OKT   S224       Al-Hamdan Ashraf                                                     
+T    11804  375 01     MECHANICS OF MATERIALS LAB        1.0    2    0        2    0      M       08:00AM 10:55AM OKT   N227       Lin Mark                                                             
+T    11805  375 02     MECHANICS OF MATERIALS LAB        1.0    2    1        1    0      M       07:40PM 10:35PM OKT   N227       Lin Mark                                                             
+T    11806  375 03     MECHANICS OF MATERIALS LAB        1.0    2    2        0    0      T       08:00AM 10:55AM OKT   N227       Lin Mark                                                             
+T    11807  375 04     MECHANICS OF MATERIALS LAB        1.0    2    2        0    1      T       01:00PM 03:55PM OKT   N227       Lin Mark                                                             
+T    11808  375 05     MECHANICS OF MATERIALS LAB        1.0    2    1        1    0      T       07:40PM 10:35PM OKT   N227       Lin Mark                                                             
+T    11809  375 06     MECHANICS OF MATERIALS LAB        1.0    2    1        1    0      W       08:00AM 10:55AM OKT   N227       Lin Mark                                                             
+T    11810  375 07     MECHANICS OF MATERIALS LAB        1.0    2    2        0    0      W       07:40PM 10:35PM OKT   N227       Lin Mark                                                             
+T    11811  375 08     MECHANICS OF MATERIALS LAB        1.0    2    2        0    0      R       08:00AM 10:55AM OKT   N227       Lin Mark                                                             
+T    11812  375 09     MECHANICS OF MATERIALS LAB        1.0    2    2        0    1      R       02:20PM 05:35PM OKT   N227       Lin Mark                                                             
+Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=CFC
+Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=CH
+A    10345  105 01     INTRO CHEMISTRY LAB               1.0  100   45       55    0      TBA     TBA             ONLN  ONLINE     Hession Benjamin                                                     
+T    10346  105 02     INTRO CHEMISTRY LAB               1.0   20   17        3    0      T       08:30AM 11:30AM SST   251        Hession Benjamin                                                     
+T    10352  125 02     GENERAL CHEMISTRY LAB I           1.0   22   22        0    0      M       07:00PM 10:00PM SST   247        Snow Mary                                                            
+T    10353  125 03     GENERAL CHEMISTRY LAB I           1.0   22   22        0    0      T       08:30AM 11:30AM SST   247        Snow Mary                                                            
+T    10354  125 04     GENERAL CHEMISTRY LAB I           1.0   22   22        0    0      T       01:00PM 04:00PM SST   247        Snow Mary                                                            
+T    10355  125 05     GENERAL CHEMISTRY LAB I           1.0   22   22        0    0      T       07:00PM 10:00PM SST   247        Snow Mary                                                            
+T    10356  125 06     GENERAL CHEMISTRY LAB I           1.0   22   21        1    0      W       01:00PM 04:00PM SST   247        Snow Mary                                                            
+T    10357  125 08     GENERAL CHEMISTRY LAB I           1.0   22   10       12    0      W       08:30AM 11:30AM SST   247        Snow Mary                                                            
+T    10358  125 09     GENERAL CHEMISTRY LAB I           1.0   22   22        0    0      R       01:00PM 04:00PM SST   247        Snow Mary                                                            
+T    10359  125 10     GENERAL CHEMISTRY LAB I           1.0   22   22        0    0      R       07:00PM 10:00PM SST   247        Snow Mary                                                            
+T    10360  126 01     GENERAL CHEMISTRY LAB II          1.0   22   22        0    0      M       01:00PM 04:00PM SST   245        Snow Mary                                                            
+T    10361  126 02     GENERAL CHEMISTRY LAB II          1.0   22   19        3    0      M       07:00PM 10:00PM SST   245        Snow Mary                                                            
+T    10362  126 03     GENERAL CHEMISTRY LAB II          1.0   22   18        4    0      T       08:30AM 11:30AM SST   245        Snow Mary                                                            
+T    10363  126 04     GENERAL CHEMISTRY LAB II          1.0   22   17        5    0      T       01:00PM 04:00PM SST   245        Snow Mary                                                            
+T    10365  126 05     GENERAL CHEMISTRY LAB II          1.0   22    4       18    0      T       07:00PM 10:00PM SST   245        Snow Mary                                                            
+T    10367  126 06     GENERAL CHEMISTRY LAB II          1.0   22   10       12    0      R       01:00PM 04:00PM SST   245        Snow Mary                                                            
+A    10371  155 01     GENORGBIOCHEM LAB                 1.0  100   23       77    0      TBA     TBA             ONLN  ONLINE     Hession Benjamin                                                     
+T    10373  191 01     FUNDAMENTALS OF CHEMICAL RES      1.0    3    0        3    0      TBA     TBA             TBA   TBA        STAFF                                                                
+A    10379  205 02     ELEM ORGANIC CHEMISTRY LAB        1.0   60   22       38    0      TBA     TBA             ONLN  ONLINE     Snow Mary                                                            
+T    10383  224 01     QUANTITATIVE ANALYSIS LAB         1.0   15   14        1    0      T       11:30AM 02:30PM SST   253        Nguyen Cuong                                                         
+T    10385  224 02     QUANTITATIVE ANALYSIS LAB         1.0   15   15        0    0      T       07:00PM 10:00PM SST   253        Nguyen Cuong                                                         
+T    10386  224 03     QUANTITATIVE ANALYSIS LAB         1.0   15    9        6    0      R       07:00PM 10:00PM SST   253        Nguyen Cuong                                                         
+T    10392  335 01     ORGANIC CHEMISTRY LAB I           1.0   14    9        5    0      M       11:30AM 03:40PM SST   232        Snow Mary                                                            
+T    10394  335 02     ORGANIC CHEMISTRY LAB I           1.0   14    6        8    0      T       06:00PM 10:00PM SST   232        Snow Mary                                                            
+T    10410  335 04     ORGANIC CHEMISTRY LAB I           1.0   14    8        6    0      R       06:00PM 10:00PM SST   232        Snow Mary                                                            
+T    10411  335 05     ORGANIC CHEMISTRY LAB I           1.0   14   10        4    0      M       06:00PM 10:00PM SST   232        Snow Mary                                                            
+T    10413  336 01     ORGANIC CHEMISTRY LAB II          1.0   14    6        8    0      M       06:00PM 10:00PM SST   236        Snow Mary                                                            
+T    10414  336 02     ORGANIC CHEMISTRY LAB II          1.0   14    6        8    0      W       06:00PM 10:00PM SST   236        Snow Mary                                                            
+T    10415  336 03     ORGANIC CHEMISTRY LAB II          1.0    0    0        0    0      T       11:30AM 03:40PM SST   236        Snow Mary                                                            
+T    10417  336 05     ORGANIC CHEMISTRY LAB II          1.0   14    9        5    0      R       06:00PM 10:00PM SST   236        Snow Mary                                                            
+T    10421  346 01     EXPERIMENTAL PHYSICAL CHEM II     1.0   15    1       14    0      W       06:00PM 09:00PM SST   253        Twigg Pamela                                                         
+T    10422  346 02     EXPERIMENTAL PHYSICAL CHEM II     1.0   15    7        8    0      M       06:00PM 09:00PM SST   253        Twigg Pamela                                                         
+T    10427  362 01     GENERAL BIOCHEMISTRY LAB          1.0   10    4        6    0      W       04:20PM 07:20PM SST   321        Ogungbe Ifedayo                                                      
+T    10429  362 02     GENERAL BIOCHEMISTRY LAB          1.0   10    5        5    0      M       04:20PM 07:20PM SST   321        Ogungbe Ifedayo                                                      
+T    10444  364 01     GEN BIOCHEMISTRY LAB II           1.0   12    3        9    0      R       01:00PM 04:00PM SST   321        Love-Rutledge Sharifa                                                
+T    12088  364 02     GEN BIOCHEMISTRY LAB II           1.0    7    2        5    0      R       04:20PM 07:20PM SST   321        Love-Rutledge Sharifa                                                
+T    10445  402 01     INORGANIC CHEMISTRY LAB           1.0   16   13        3    0      W       06:30PM 09:30PM SST   232        Ling Jie                                                             
+T    10446  402 02     INORGANIC CHEMISTRY LAB           1.0    0    0        0    0      TBA     TBA             TBA   TBA        STAFF                                                                
+T    10448  491 01     INTRO TO CHEMICAL RESEARCH        1.0    5    1        4    0      TBA     TBA             TBA   TBA        Vogler Bernhard                                                      
+T    12476  491 02     INTRO TO CHEMICAL RESEARCH        1.0    5    1        4    0      TBA     TBA             TBA   TBA        Pusey Marc                                                           
+T    10451  500 01     TOPICS IN CHEMISTRY               1.0    2    1        1    0      TBA     TBA             TBA   TBA        STAFF                                                                
+T    10453  522 01     CHEMICAL INSTRUMENTATION LAB      1.0    6    6        0    0      TBA     TBA             ENG   219        Ling Jie                                                             
+Z    10454  522 02     CHEMICAL INSTRUMENTATION LAB      1.0    0    0 Canceled    0      TBA     TBA             TBA   TBA        STAFF                                                                
+Z    10455  522 03     CHEMICAL INSTRUMENTATION LAB      1.0    0    0 Canceled    0      TBA     TBA             TBA   TBA        STAFF                                                                
+T    12106  699 05     MASTER'S THESIS                   1.0    0    0        0    0      TBA     TBA             TBA   TBA        STAFF                                                                
+T    10532  780 01     CHEMISTRY SEMINAR                 1.0   45    6       39    0      F       02:40PM 03:35PM MSB   112        Weimer Jeffrey                                                       
+Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=CHE
+Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=CM
+Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=CPE
+T    11024  324 01     ADV LOGIC DESIGN LABORATORY       1.0   15   15        0    0      TR      11:20AM 12:40PM ENG   228        Wells Buren                                                          
+T    11027  324 02     ADV LOGIC DESIGN LABORATORY       1.0   15   15        0    0      TR      01:00PM 02:20PM ENG   228        Wells Buren                                                          
+T    11031  324 03     ADV LOGIC DESIGN LABORATORY       1.0   15   15        0    0      TR      09:40AM 11:00AM ENG   228        Wells Buren                                                          
+T    11029  324 04     ADV LOGIC DESIGN LABORATORY       1.0   15   12        3    0      F       09:40AM 12:40PM ENG   228        Wells Buren                                                          
+T    11030  324 05     ADV LOGIC DESIGN LABORATORY       1.0    0    0 Canceled    0      TBA     TBA             TBA   TBA        STAFF                                                                
+T    11033  325 01     EMBEDDED SYSTEMS LAB              1.0   17   17        0    0      TR      02:40PM 04:00PM ENG   226        Milenkovic Aleksandar                                                
+T    11034  325 02     EMBEDDED SYSTEMS LAB              1.0   17    9        8    0      F       04:20PM 07:20PM ENG   226        Milenkovic Aleksandar                                                
+T    11035  325 03     EMBEDDED SYSTEMS LAB              1.0    0    0 Canceled    0      TBA     TBA             TBA   TBA        STAFF                                                                
+T    11036  325 04     EMBEDDED SYSTEMS LAB              1.0   17   17        0    0      MW      11:20AM 12:40PM ENG   226        Milenkovic Aleksandar                                                
+T    11037  325 05     EMBEDDED SYSTEMS LAB              1.0   17   17        0    0      F       09:40AM 12:40PM ENG   226        Milenkovic Aleksandar                                                
+T    11100  435 01     OPERATING SYSTEMS LABORATORY      1.0   35   32        3    0      F       01:00PM 04:00PM ENG   246        Werth Aaron                                                          
+T    11101  435 02     OPERATING SYSTEMS LABORATORY      1.0   35   35        0    0      MW      06:00PM 07:20PM ENG   246        Werth Aaron                                                          
+Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=CS
+Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=EA
+Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=ECH
+Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=ECN
+Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=ED
+Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=EDC
+A    11990  692 01     O & M INTERNSHIP                  1.0   10    1        9    0      TBA     TBA             ONLN  ONLINE     Thomas Susie                                                         
+Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=EE
+T    11249  203 01     DIGITAL LOGIC DESIGN LAB          1.0   12   12        0    0      M       01:00PM 04:00PM ENG   227        Hite Dennis                                                          
+T    11252  203 02     DIGITAL LOGIC DESIGN LAB          1.0   12   11        1    0      T       06:00PM 09:00PM ENG   227        Hite Dennis                                                          
+T    11256  203 03     DIGITAL LOGIC DESIGN LAB          1.0   12   12        0    0      M       06:00PM 09:00PM ENG   227        Hite Dennis                                                          
+T    11258  203 04     DIGITAL LOGIC DESIGN LAB          1.0   12   11        1    0      R       06:00PM 09:00PM ENG   227        Hite Dennis                                                          
+T    11261  203 05     DIGITAL LOGIC DESIGN LAB          1.0   12   12        0    0      W       06:00PM 09:00PM ENG   227        Hite Dennis                                                          
+T    11265  203 06     DIGITAL LOGIC DESIGN LAB          1.0   12   12        0    0      F       09:00AM 12:00PM ENG   227        Hite Dennis                                                          
+T    11327  316 01     ELE CIRCUITS & ELTRNC DSGN LAB    1.0   12    0 Canceled    0      TBA     TBA             TBA   TBA        STAFF                                                                
+T    11330  316 02     ELE CIRCUITS & ELTRNC DSGN LAB    1.0   12   11        1    0      M       06:00PM 09:00PM ENG   225        Beal Aubrey                                                          
+T    11332  316 03     ELE CIRCUITS & ELTRNC DSGN LAB    1.0   12   12        0    0      W       06:00PM 09:00PM ENG   225        Beal Aubrey                                                          
+T    11334  316 04     ELE CIRCUITS & ELTRNC DSGN LAB    1.0   12    9        3    0      R       01:00PM 04:00PM ENG   225        Beal Aubrey                                                          
+T    11335  316 05     ELE CIRCUITS & ELTRNC DSGN LAB    1.0    0    0 Canceled    0      TBA     TBA             TBA   TBA        STAFF                                                                
+T    11338  316 06     ELE CIRCUITS & ELTRNC DSGN LAB    1.0   12   11        1    0      T       01:00PM 04:00PM ENG   225        Beal Aubrey                                                          
+T    11343  316 07     ELE CIRCUITS & ELTRNC DSGN LAB    1.0   12   12        0    0      F       01:00PM 04:00PM ENG   225        Beal Aubrey                                                          
+T    11346  316 08     ELE CIRCUITS & ELTRNC DSGN LAB    1.0   12    6        6    0      F       08:00AM 11:00AM ENG   225        Beal Aubrey                                                          
+T    11351  384 01     DIG SIGNAL PROCESS LAB            1.0   16    9        7    0      MW      06:00PM 07:20PM ENG   109        Joiner Laurie                                                        
+T    11352  384 02     DIG SIGNAL PROCESS LAB            1.0   16   16        0    0      TR      11:20AM 12:40PM ENG   109        Joiner Laurie                                                        
+T    11355  384 03     DIG SIGNAL PROCESS LAB            1.0   16    8        8    0      TR      06:00PM 07:20PM ENG   109        Joiner Laurie                                                        
+T    11358  384 04     DIG SIGNAL PROCESS LAB            1.0   16    8        8    0      MW      11:20AM 12:40PM ENG   109        Joiner Laurie                                                        
+Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=EGR
+Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=EH
+T    11038  463 01     CAPSTONE IN WRITING               1.0   25    7       18    0      T       09:40AM 10:40AM MOR   007        Weber Ryan                                                           
+Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=EM
+Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=ESL
+Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=ET
+Y    10626  434 01     INSTRUMENT & MEASUREMENT LAB      1.0   25    0       25    0      T       05:45PM 07:45PM SST   008        Henrie Alisa                                                         
+S    10627  434 02     INSTRUMENT & MEASUREMENT LAB      1.0   25   10       15    0      T       05:45PM 07:45PM ONLN  ONLINE     Henrie Alisa                                                         
+Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=FIN
+T    10907  330 01     FINANCE ACADEMY II                1.0   30    9       21    0      MW      08:45AM 10:35AM BAB   109        Gibson John                                                          
+T    10918  430 01     FINANCE ACADEMY III               1.0   30   12       18    0      MW      08:45AM 10:35AM BAB   109        Gibson John                                                          
+Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=FMA
+Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=FYE
+T    10247  101S 01    CHARGER SUCCESS - SCIENCE         1.0   30   24        6    0      MW      01:00PM 01:55PM OPB   234        Miller James                                                         
+T    10248  101S 02    CHARGER SUCCESS - SCIENCE         1.0   30   27        3    0      TR      09:40AM 10:35AM SST   203        Cooper Judy                                                          
+T    10812  101S 03    CHARGER SUCCESS - SCIENCE         1.0   25   24        1    0      MW      02:40PM 03:35PM SST   006        Henrie Alisa                                                         
+T    10249  101S 04    CHARGER SUCCESS - SCIENCE         1.0   30   26        4    0      TR      04:20PM 05:15PM SST   004        Greene Nancy                                                         
+T    10250  101S 05    CHARGER SUCCESS - SCIENCE         1.0   30   19       11    0      MW      02:40PM 03:35PM SST   150        Burrows Janice                                                       
+T    10251  101S 06    CHARGER SUCCESS - SCIENCE         1.0   30   19       11    0      MW      11:20AM 12:15PM MSB   109        Brightwell Andrea                                                    
+T    10252  101S 07    CHARGER SUCCESS - SCIENCE         1.0   20   20        0    0      MW      09:40AM 10:35AM LIB   111        Brasfield Vivian                                                     
+T    10253  101S 09    CHARGER SUCCESS - SCIENCE         1.0   30   11       19    0      MW      11:20AM 12:15PM BAB   223        Williamson James                                                     
+A    10254  101S 10    CHARGER SUCCESS - SCIENCE         1.0   20   20        0    1      TBA     TBA             ONLN  ONLINE     Smeal Mary                                                           
+Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=GS
+T    12503  450 01     GLOBAL PROFESSIONAL PORTFOLIO     1.0    1    1        0    0      TBA     TBA             TBA   TBA        Johnson David                                                        
+Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=HON
+T    10283  201 H01    SCHOLARSHIPS GRAD SCHOOL          1.0   12    7        5    0      TR      09:40AM 10:35AM MOR   108        Staton Jennifer                                                      
+S    10298  301 H06    HON SEM: PLATO AND FAKE NEWS      1.0   15    9        6    0      M       01:00PM 02:20PM ONLN  ONLINE     Layton Dakota                                                        
+T    12051  301 H08    HON SEM: GENDER AND SEXUALITY     1.0   15   12        3    0      F       01:00PM 02:20PM FFH   138        Friedman Susan                                                       
+T    10290  301 H01    HON SEM: THE 2024 ELECTION        1.0   15   10        5    0      R       11:20AM 12:15PM FFH   138        Peck Emily                                                           
+T    10293  301 H02    HON SEM: HEALTH IN SPACE          1.0   15   10        5    0      W       09:40AM 10:35AM FFH   138        Amiri Azita                                                          
+T    10295  301 H03    HON SEM: PSYCHIATRIC DETECTIVE    1.0   15   10        5    0      T       11:20AM 12:15PM MOR   123        Graham Laura                                                         
+T    10296  301 H04    HON SEM: STRATEGIC FORESIGHT      1.0   15    7        8    0      M       04:20PM 05:15PM FFH   138        Grumbach Joshua                                                      
+T    10297  301 H05    HON SEM: CRISPR BABIES            1.0   15   14        1    0      W       01:00PM 01:55PM SST   219        Sysoeva Tatyana                                                      
+T    10300  301 H07    HON SEM: EXERCISE IN ESPORTS      1.0   15   14        1    0      F       01:00PM 01:55PM WIL   330        Conners Ryan                                                         
+T    12070  301 H09    HON SEM: MOVING BEYOND APOLLO     1.0   15   15        0    0      F       09:40AM 10:35AM FFH   138        Odom Brian                                                           
+T    10302  321 H01    HON ISE 321 SUPPLEMENT            1.0   15   10        5    0      M       02:40PM 03:35PM MOR   108        Davis Andrew                                                         
+T    10329  401 H01    HON ENG MISSIONS DES & DEV        1.0   10    0       10    0      TBA     TBA             TBA   TBA        Turner Matthew                                                       
+T    10330  401 H02    HON ENG ROCKET DESIGN             1.0   10    6        4    0      TBA     TBA             TBA   TBA        Lineberry David                                                      
+T    10331  401 H03    HON ENG MISSIONS DES & DEV        1.0   10    1        9    0      TBA     TBA             TBA   TBA        Benfield Michael                                                     
+T    10332  401 H04    HON ENG MOONBUGGY DESIGN          1.0   10    3        7    0      TBA     TBA             TBA   TBA        Fikes David                                                          
+T    10333  401 H05    HON ENG MISSIONS DES & DEV        1.0   10    1        9    0      TBA     TBA             TBA   TBA        Turner Matthew                                                       
+T    10334  401 H06    HON ENG ELECTRIC VEHICLE          1.0   10    1        9    0      TBA     TBA             TBA   TBA        Ginga Nicholas                                                       
+T    10335  401 H07    HON ENG SYSTEM ANALYSIS & DES     1.0   10    1        9    0      TBA     TBA             TBA   TBA        Kannan Hanumanthrao                                                  
+Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=HPE
+T    11780  127 01     LADIES SELF-DEFENSE               1.0   12    6        6    0      MW      06:00PM 06:55PM SPR   123        Copeland Jonathan                                                    
+T    11781  136 01     YOGA                              1.0   15   12        3    0      MW      08:00AM 08:55AM UFC   114        Worcester Cristina                                                   
+T    11782  136 02     YOGA                              1.0   15    8        7    0      MW      01:00PM 01:55PM UFC   114        Newton Suzanne                                                       
+T    11783  136 03     YOGA                              1.0   15   14        1    0      TR      08:00AM 08:55AM UFC   114        Worcester Cristina                                                   
+T    11784  136 04     YOGA                              1.0   15    0 Canceled    0      TBA     TBA             TBA   TBA        STAFF                                                                
+T    11789  170 01     VOLLEYBALL                        1.0   20   17        3    0      MW      11:20AM 12:15PM SPR   GYM        Laatsch Allison                                                      
+T    11773  110 01     WALK/JOG/RUN                      1.0   30   10       20    0      MW      06:00PM 07:15PM UFC   100        Bishop Jacob                                                         
+T    11787  153 01     TENNIS                            1.0   20    0 Canceled    0      TBA     TBA             TBA   TBA        STAFF                                                                
+T    11788  169 01     BASKETBALL                        1.0   20    0 Canceled    0      TBA     TBA             TBA   TBA        STAFF                                                                
+T    11790  199 01     ST: PICKLEBALL                    1.0   15   12        3    0      F       11:20AM 12:40PM SPR   TCOURT     Kyle David                                                           
+Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=HY
+Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=IS
+Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=ISE
+T    10776  639 04     ST: Systems Integration           1.0   32    0 Canceled    0      TBA     TBA             TBA   TBA        STAFF                                                                
+T    10778  639 04R    ST: Systems Integration           1.0    0    0        0    0      TBA     TBA             TBA   TBA        STAFF                                                                
+Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=KIN
+T    11701  328 01     EXERCISE PHYSIOLOGY LAB           1.0   12   12        0    0      R       04:00PM 06:00PM WIL   331        Sarazen Alexander                                                    
+T    11705  328 02     EXERCISE PHYSIOLOGY LAB           1.0   12   11        1    0      F       10:00AM 12:00PM WIL   331        Sarazen Alexander                                                    
+Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=LIB
+Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=MA
+T    10206  399 01     PEDAGOGY COURSE FOR LAS           1.0   15    2       13    0      TBA     TBA             TBA   TBA        Lenahan Shelley                                                      
+Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=MAE
+T    10541  115 01     INTRODUCTION TO MACHINING         1.0    0    8       -8    2      T       11:20AM 02:20PM OKT   W100       Buckley Jonathan                                                     
+T    10542  115 02     INTRODUCTION TO MACHINING         1.0    0    8       -8    2      W       11:20AM 02:20PM OKT   W100       Buckley Jonathan                                                     
+T    10544  115 03     INTRODUCTION TO MACHINING         1.0    0    6       -6    2      R       11:20AM 02:20PM OKT   W100       Buckley Jonathan                                                     
+T    11832  331 01     AERODYNAMICS LAB                  1.0   10   10        0    0      M       07:40PM 10:35PM OKT   N119       Hu Haiyang                                                           
+T    11833  331 02     AERODYNAMICS LAB                  1.0   10   10        0    0      T       01:00PM 03:55PM OKT   N119       Hu Haiyang                                                           
+T    11834  331 03     AERODYNAMICS LAB                  1.0   10   10        0    0      W       07:40PM 10:35PM OKT   N119       Hu Haiyang                                                           
+T    11835  331 04     AERODYNAMICS LAB                  1.0   10    8        2    0      R       08:00AM 10:55AM OKT   N119       Hu Haiyang                                                           
+T    11843  345 H01    HONORS THERMODYNAMICS COLQ        1.0   12    9        3    0      F       09:40AM 11:00AM OKT   N277       Hollingsworth Donald                                                 
+T    11853  375 01     MECHANICS OF MATERIALS LAB        1.0   22   13        9    0      M       08:00AM 10:55AM OKT   N227       Lin Mark                                                             
+T    11854  375 02     MECHANICS OF MATERIALS LAB        1.0   22   17        5    0      M       07:40PM 10:35PM OKT   N227       Lin Mark                                                             
+T    11855  375 03     MECHANICS OF MATERIALS LAB        1.0   22    3       19    0      T       08:00AM 10:55AM OKT   N227       Lin Mark                                                             
+T    11856  375 04     MECHANICS OF MATERIALS LAB        1.0   22   22        0    1      T       01:00PM 03:55PM OKT   N227       Lin Mark                                                             
+T    11857  375 05     MECHANICS OF MATERIALS LAB        1.0   22   21        1    0      T       07:40PM 10:35PM OKT   N227       Lin Mark                                                             
+T    11858  375 06     MECHANICS OF MATERIALS LAB        1.0   22   22        0    0      W       08:00AM 10:55AM OKT   N227       Lin Mark                                                             
+T    11859  375 07     MECHANICS OF MATERIALS LAB        1.0   22   22        0    0      W       07:40PM 10:35PM OKT   N227       Lin Mark                                                             
+T    11860  375 08     MECHANICS OF MATERIALS LAB        1.0   22   10       12    0      R       08:00AM 10:55AM OKT   N227       Lin Mark                                                             
+T    11861  375 09     MECHANICS OF MATERIALS LAB        1.0   22   22        0    0      R       02:40PM 05:35PM OKT   N227       Lin Mark                                                             
+T    11866  451 01     HEAT & MASS TRANSFER LAB          1.0   16    4       12    0      T       08:00AM 10:55AM OKT   N119       Zhang Guangsheng                                                     
+T    11867  451 02     HEAT & MASS TRANSFER LAB          1.0   16   10        6    0      T       07:40PM 10:35PM OKT   N119       Zhang Guangsheng                                                     
+T    11868  451 03     HEAT & MASS TRANSFER LAB          1.0   16   12        4    0      W       08:00AM 10:55AM OKT   N119       Zhang Guangsheng                                                     
+T    11869  451 05     HEAT & MASS TRANSFER LAB          1.0   16   13        3    0      R       01:00PM 03:55PM OKT   N119       Zhang Guangsheng                                                     
+Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=MGT
+Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=MIL
+Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=MKT
+Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=MSC
+Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=MTS
+T    12161  780 01     MATERIALS SCIENCE SEMINAR         1.0   10    1        9    0      W       12:00PM 01:00PM OPB   TBA        Schneider Judith                                                     
+Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=MU
+T    11112  106 01     INTRO TO MUSIC TECHNOLOGY         1.0   15   14        1    0      MW      11:20AM 12:35PM ELC   TBA        Westmeyer Matthew                                                    
+T    11114  120 01     BEGINNING CLASS VOICE             1.0   15   12        3    0      TR      11:20AM 12:15PM ROB   201        Young Karen                                                          
+T    11115  130 01     PIANO CLASS                       1.0   12   11        1    0      TR      11:20AM 12:15PM MOR   047        Weaver Ingrid                                                        
+T    11151  140 01     BEGINNING GUITAR CLASS            1.0   10    7        3    0      MW      11:20AM 12:15PM ROB   201        Weaver Phillip                                                       
+T    11167  203 01     MUSICIANSHIP SKILLS I             1.0   20   17        3    0      MW      01:00PM 01:55PM ROB   212        Hutson Leslie                                                        
+T    11172  303 01     MUSICIANSHIP SKILLS III           1.0   20    3       17    0      TR      11:20AM 12:40PM ROB   412        Hutson Leslie                                                        
+T    11182  404 01     MUSIC TECHNOLOGY INDIV PROJECT    1.0    5    0        5    0      TBA     TBA             TBA   TBA        Westmeyer Matthew                                                    
+Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=MUA
+T    11190  111 01     STUDIO INSTR-VOICE                1.0    5    2        3    0      TBA     TBA             TBA   TBA        Osuga Amalia                                                         
+T    11191  111 02     STUDIO INSTR-VOICE                1.0    8    7        1    0      TBA     TBA             TBA   TBA        Young Karen                                                          
+T    11193  111 03     STUDIO INSTR-VOICE                1.0    5    3        2    0      TBA     TBA             TBA   TBA        Weinberg Michael                                                     
+T    11197  121 01     STUDIO INSTR-ORGAN                1.0    5    2        3    0      TBA     TBA             TBA   TBA        Gardner Jillian                                                      
+T    11203  131 01     STUDIO INSTR-PIANO                1.0    1    1        0    0      TBA     TBA             TBA   TBA        Ng Ka Man                                                            
+T    11205  131 02     STUDIO INSTR-PIANO                1.0    5    4        1    0      TBA     TBA             TBA   TBA        Weaver Ingrid                                                        
+T    11209  131 03     STUDIO INSTR-PIANO                1.0    5    1        4    0      TBA     TBA             TBA   TBA        Taylor Phillip                                                       
+T    11212  131 04     STUDIO INSTR-PIANO                1.0    5    3        2    0      TBA     TBA             TBA   TBA        Miller John                                                          
+T    11218  141 01     STUDIO INSTR-GUITAR CLASSICAL     1.0    5    5        0    0      TBA     TBA             TBA   TBA        Weaver Phillip                                                       
+T    11220  141 02     STUDIO INSTR-GUITAR BASS          1.0    5    1        4    0      TBA     TBA             TBA   TBA        Couts Joshua                                                         
+T    11223  141 03     STUDIO INSTR-GUITAR JAZZ          1.0    5    1        4    0      TBA     TBA             TBA   TBA        Couts Joshua                                                         
+T    11231  151 01     STUDIO INSTR-STRINGS VIOLIN       1.0    5    3        2    0      TBA     TBA             TBA   TBA        Dortch Jeffrey                                                       
+T    11233  151 02     STUDIO INSTR-STRINGS VIOLA        1.0    5    0        5    0      TBA     TBA             TBA   TBA        Dortch Jeffrey                                                       
+T    11237  151 03     STUDIO INSTR-STRINGS CELLO        1.0    5    0        5    0      TBA     TBA             TBA   TBA        Arcu Ariana                                                          
+T    11247  161 01     STUDIO INSTR-WOODWINDS FLUTE      1.0    5    3        2    0      TBA     TBA             TBA   TBA        Patterson Laura                                                      
+T    11264  161 02     STUDIO INSTR-WOODWINDS SAX        1.0    5    1        4    0      TBA     TBA             TBA   TBA        Balch Mary                                                           
+T    11268  161 03     STUDIO INSTR-WOODWINDS OBOE       1.0    5    1        4    0      TBA     TBA             TBA   TBA        Case Jennifer                                                        
+T    11271  161 04     STUDIO INSTR-WOODWIND CLARINET    1.0    5    0        5    0      TBA     TBA             TBA   TBA        Koprowski Melissa                                                    
+T    11273  161 05     STUDIO INSTR-WOODWIND CLARINET    1.0    5    0        5    0      TBA     TBA             TBA   TBA        Barlow Taylor                                                        
+T    11275  161 06     STUDIO INSTR-WOODWIND CLARINET    1.0    5    2        3    0      TBA     TBA             TBA   TBA        Balch Mary                                                           
+T    11295  171 01     STUDIO INSTR-BRASS TRUMPET        1.0    5    1        4    0      TBA     TBA             TBA   TBA        Underwood Devin                                                      
+T    11298  171 02     STUDIO INSTR-BRASS TROMBONE       1.0    5    3        2    0      TBA     TBA             TBA   TBA        Bargetzi William                                                     
+T    11301  171 03     STUDIO INSTR-BRASS TUBA           1.0    5    0        5    0      TBA     TBA             TBA   TBA        Black Douglas                                                        
+Y    11304  171 04     STUDIO INSTR-BRASS HORN           1.0    5    0        5    0      TBA     TBA             TBA   TBA        Ortlepp Kenneth                                                      
+T    11397  181 01     STUDIO INSTR-PERCUSSION           1.0    5    2        3    0      TBA     TBA             TBA   TBA        Saddler Evan                                                         
+T    11399  191 01     STUDIO INSTR-COMPOSITION          1.0    5    0        5    0      TBA     TBA             TBA   TBA        Hutson Leslie                                                        
+Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=MUE
+Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=MUJ
+T    11574  131 01     JAZZ STUDIO INSTR-PIANO           1.0    5    1        4    0      TBA     TBA             TBA   TBA        Taylor Phillip                                                       
+T    11575  131 02     JAZZ STUDIO INSTR-PIANO           1.0    5    2        3    0      TBA     TBA             TBA   TBA        Miller John                                                          
+T    11576  141 01     JAZZ STUDIO INSTR-GUITAR          1.0    5    0        5    0      TBA     TBA             TBA   TBA        Couts Joshua                                                         
+T    11577  151 01     JAZZ STUDIO INSTRUCTION-BASS      1.0    5    0        5    0      TBA     TBA             TBA   TBA        Couts Joshua                                                         
+T    11578  161 01     JAZZ STUDIO INSTR-WOODWINDS       1.0    5    2        3    0      TBA     TBA             TBA   TBA        Motz Steve                                                           
+T    11579  171 01     JAZZ STUDIO INSTR-BRASS           1.0    5    0        5    0      TBA     TBA             TBA   TBA        Watters Kenneth                                                      
+T    11580  181 01     JAZZ STUDIO INST-PERCUSSION       1.0    5    0        5    0      TBA     TBA             TBA   TBA        STAFF                                                                
+Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=MUX
+T    11590  389 01     UAH JAZZ ENSEMBLE                 1.0   25   10       15    0      TR      04:20PM 05:40PM BEV   280        Taylor Phillip                                                       
+T    11591  390 01     UAH CONCERT CHOIR                 1.0   60   21       39    0      MW      02:40PM 04:00PM ROB   201        Carey Matthew                                                        
+T    11592  391 01     UAH CHAMBER CHOIR                 1.0   32    9       23    0      TR      02:40PM 04:00PM ROB   201        Carey Matthew                                                        
+T    11593  395 01     OPERA WORKSHOP                    1.0   10    3        7    0      WF      11:20AM 12:40PM ROB   100        Osuga Amalia                                                         
+T    11604  397 01     UNIVERSITY BAND                   1.0   50   14       36    0      U       07:00PM 10:00PM BEV   280        Harris Brent                                                         
+T    11605  399 01     UAH WIND ENSEMBLE                 1.0   50   29       21    0      MW      04:20PM 05:40PM BEV   280        Hontz Jack                                                           
+T    11606  590 01     UAH CONCERT CHOIR                 1.0   60    1       59    0      MW      02:40PM 04:00PM ROB   201        Carey Matthew                                                        
+T    11607  591 01     UAH CHAMBER CHOIR                 1.0   32    0       32    0      TR      02:40PM 04:00PM ROB   201        Carey Matthew                                                        
+T    11608  599 01     UAH WIND ENSEMBLE                 1.0   50    1       49    0      MW      04:20PM 05:40PM BEV   280        Hontz Jack                                                           
+Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=NUA
+Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=NUR
+T    11610  311 01     CLINICAL CALCULATIONS             1.0   20   19        1    0      W       03:15PM 04:15PM NUR   204A       Reynolds Charles                                                     
+T    11611  311 02     CLINICAL CALCULATIONS             1.0   25   14       11    0      W       03:15PM 04:15PM NUR   103B       Poole Jarmel                                                         
+T    11612  311 03     CLINICAL CALCULATIONS             1.0   25    0 Canceled    0      TBA     TBA             TBA   TBA        STAFF                                                                
+A    10979  734 81     ADVANCED EXPERIENTIAL CLINICAL    1.0   25    6       19    0      TBA     TBA             ONLN  ONLINE     Smith Lenora                                                         
+Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=NUS
+Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=OCS
+Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=OPE
+Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=OPT
+Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=OSE
+Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=PH
+T    11199  114 01     GENERAL PHYSICS LAB I             1.0   24    8       16    0      M       08:00AM 10:00AM SST   020A       Chronis Themistoklis                                                 
+T    11200  114 02     GENERAL PHYSICS LAB I             1.0   24   24        0    0      M       06:00PM 08:00PM SST   020A       Chronis Themistoklis                                                 
+T    11201  114 03     GENERAL PHYSICS LAB I             1.0   24   19        5    0      T       06:00PM 08:00PM SST   020A       Chronis Themistoklis                                                 
+T    11202  114 04     GENERAL PHYSICS LAB I             1.0   24   23        1    0      T       10:30AM 12:30PM SST   020A       Chronis Themistoklis                                                 
+T    11204  114 05     GENERAL PHYSICS LAB I             1.0   24   11       13    0      T       08:00AM 10:00AM SST   020A       Chronis Themistoklis                                                 
+Z    11207  114 06     GENERAL PHYSICS LAB I             1.0    0    0 Canceled    0      TBA     TBA             TBA   TBA        STAFF                                                                
+Z    11210  114 07     GENERAL PHYSICS LAB I             1.0    0    0 Canceled    0      TBA     TBA             TBA   TBA        STAFF                                                                
+T    11214  114 08     GENERAL PHYSICS LAB I             1.0   24   19        5    0      W       10:30AM 12:30PM SST   020A       Chronis Themistoklis                                                 
+T    11227  114 09     GENERAL PHYSICS LAB I             1.0   24   24        0    0      W       06:00PM 08:00PM SST   020A       Chronis Themistoklis                                                 
+T    11230  114 10     GENERAL PHYSICS LAB I             1.0   24   24        0    0      R       10:30AM 12:30PM SST   020A       Chronis Themistoklis                                                 
+T    11232  114 11     GENERAL PHYSICS LAB I             1.0   24   23        1    0      R       03:30PM 05:30PM SST   020A       Chronis Themistoklis                                                 
+T    11234  114 12     GENERAL PHYSICS LAB I             1.0   24   14       10    0      R       06:00PM 08:00PM SST   020A       Chronis Themistoklis                                                 
+T    11235  114 13     GENERAL PHYSICS LAB I             1.0   24   12       12    0      F       08:00AM 10:00AM SST   020A       Chronis Themistoklis                                                 
+T    11238  114 14     GENERAL PHYSICS LAB I             1.0   24   24        0    0      F       10:30AM 12:30PM SST   020A       Chronis Themistoklis                                                 
+Z    11240  114 15     GENERAL PHYSICS LAB I             1.0    0    0 Canceled    0      TBA     TBA             TBA   TBA        STAFF                                                                
+T    11242  114 16     GENERAL PHYSICS LAB I             1.0   24   24        0    0      M       03:50PM 05:50PM SST   020A       Chronis Themistoklis                                                 
+T    11244  114 17     GENERAL PHYSICS LAB I             1.0   24   12       12    0      M       08:00PM 10:00PM SST   020A       Chronis Themistoklis                                                 
+T    11246  114 18     GENERAL PHYSICS LAB I             1.0   24   10       14    0      R       08:00PM 10:00PM SST   020A       Chronis Themistoklis                                                 
+T    11248  114 19     GENERAL PHYSICS LAB I             1.0   24   15        9    0      R       08:00AM 10:00AM SST   020A       Chronis Themistoklis                                                 
+T    11250  114 20     GENERAL PHYSICS LAB I             1.0   24   10       14    0      M       10:30AM 12:30PM SST   020A       Chronis Themistoklis                                                 
+Z    11251  114 21     GENERAL PHYSICS LAB I             1.0    0    0 Canceled    0      TBA     TBA             TBA   TBA        STAFF                                                                
+T    11253  114 H01    HONORS GENERAL PHYSICS LAB I      1.0   24   15        9    0      W       08:00PM 10:00PM SST   020A       Chronis Themistoklis                                                 
+T    11254  114 H02    HONORS GENERAL PHYSICS LAB I      1.0   24   17        7    0      W       03:30PM 05:30PM SST   020A       Chronis Themistoklis                                                 
+T    11255  114 H03    HONORS GENERAL PHYSICS LAB I      1.0   24   18        6    0      R       12:30PM 02:30PM SST   020A       Chronis Themistoklis                                                 
+T    11257  115 01     GENERAL PHYSICS LAB II            1.0   24   11       13    0      M       08:00AM 10:00AM SST   020B       Chronis Themistoklis                                                 
+T    11259  115 02     GENERAL PHYSICS LAB II            1.0   24   23        1    0      M       10:30AM 12:30PM SST   020B       Chronis Themistoklis                                                 
+T    11260  115 03     GENERAL PHYSICS LAB II            1.0   24   24        0    0      T       08:00AM 10:00AM SST   020B       Chronis Themistoklis                                                 
+T    11262  115 04     GENERAL PHYSICS LAB II            1.0   24   24        0    0      T       06:00PM 08:00PM SST   020B       Chronis Themistoklis                                                 
+T    11263  115 05     GENERAL PHYSICS LAB II            1.0   24   23        1    0      W       10:30AM 12:30PM SST   020B       Chronis Themistoklis                                                 
+T    11266  115 06     GENERAL PHYSICS LAB II            1.0   24   24        0    0      W       03:30PM 05:30PM SST   020B       Chronis Themistoklis                                                 
+T    11267  115 07     GENERAL PHYSICS LAB II            1.0   24   24        0    0      F       03:30PM 05:30PM SST   020B       Chronis Themistoklis                                                 
+T    11270  115 08     GENERAL PHYSICS LAB II            1.0   24   14       10    0      F       08:00AM 10:00AM SST   020B       Chronis Themistoklis                                                 
+T    11272  116 01     GENERAL PHYSICS LAB III           1.0   24   11       13    0      M       10:30AM 12:30PM SST   TBA        Chronis Themistoklis                                                 
+T    11274  116 02     GENERAL PHYSICS LAB III           1.0   24   15        9    0      T       05:30PM 07:30PM SST   TBA        Chronis Themistoklis                                                 
+T    11277  116 03     GENERAL PHYSICS LAB III           1.0   24    9       15    0      R       08:00AM 10:00AM SST   TBA        Chronis Themistoklis                                                 
+Z    11278  116 04     GENERAL PHYSICS LAB III           1.0    0    0 Canceled    0      TBA     TBA             TBA   TBA        STAFF                                                                
+T    11281  116 05     GENERAL PHYSICS LAB III           1.0   24    7       17    0      W       10:30AM 12:30PM SST   TBA        Chronis Themistoklis                                                 
+T    11286  251 01     SPECIAL RELATIVITY                1.0   35   23       12    0      M       04:10PM 05:30PM MSB   112        Walker Stephen                                                       
+T    11333  792 01     PHYSICS SEMINAR                   1.0   50   15       35    0      W       02:50PM 03:50PM OPB   234        Chakrabarti Sukanya                                                  
+Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=PHL
+Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=PRO
+A    10647  301 01     FOUNDATIONS ADULT LEARNING        1.0   25   10       15    0      TBA     TBA             ONLN  ONLINE     Crawford Kellee                                                      
+Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=PSC
+Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=PY
+T    10430  304 01     PSYCHOLOGICAL STATISTICS LAB      1.0   29   14       15    0      M       02:40PM 04:00PM LIB   206        Neuschatz Jeffrey                                                    
+T    10431  304 02     PSYCHOLOGICAL STATISTICS LAB      1.0   29   15       14    0      W       02:40PM 04:00PM LIB   206        Neuschatz Jeffrey                                                    
+T    10432  305 01     PY RESEARCH METHODS LAB           1.0   20   18        2    0      T       04:20PM 05:40PM LIB   205        Tykol Lauren                                                         
+Y    10457  608 01     GRAD PRACT TCHG & CAREER EXPLO    1.0   15    7        8    0      W       11:20AM 12:40PM MOR   124        Torres Aurora                                                        
+Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=SFM
+Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=SOC
+T    10264  304 01     STATISTICS LAB                    1.0   20    8       12    0      T       01:00PM 02:20PM LIB   211        Thomson Robert                                                       
+Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=SPA
+T    10010  771 01     COMPETITIVE GRANT WRITING WKSP    1.0   12    1       11    0      F       11:00AM 12:00PM CRH   2076       Li Gang                                                              
+T    10011  796 01     JOURNAL CLUB                      1.0   11    8        3    0      F       10:00AM 11:00AM CRH   2076       Li Gang                                                              
+Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=SSC
+Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=TH
+Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=WGS
+Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=WLC
