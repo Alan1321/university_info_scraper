@@ -24,10 +24,7 @@ Run the `main.py` script to execute the main functionality of the project. --> p
 python main.py
 ```
 
-Run the `main.py` script to execute the main functionality of the project. --> saves data to results.txt file
+Run the `main.py > results.txt` script to execute the main functionality of the project. --> saves data to results.txt file
 
 ```bash
 python main.py > results.txt
-
-
-
