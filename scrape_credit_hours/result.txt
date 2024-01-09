@@ -1,4 +1,6 @@
+
 Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=ACC
+
 Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=AES
 T    10533  100 01     INTRODUCTION TO SPACE SCIENCE     1.0 ####    0     2000    0      TBA     TBA             TBA   TBA        STAFF                                                                
 T    12134  490 01     ST: ADVANCED FORECASTING          1.0   16    6       10    0      T       04:20PM 06:20PM SWI   103        Magee Kathleen                                                       
@@ -6,18 +8,26 @@ T    10566  498 01     RESEARCH & PROF DEV CAPSTONE      1.0   25   17        8 
 T    10578  780 01     SEMINAR                           1.0   15    6        9    0      W       01:00PM 02:20PM CRH   4065       Mecikalski John                                                      
 T    10579  781 01     STUDENT SEMINAR                   1.0   15   10        5    0      W       01:00PM 02:20PM CRH   4065       Mecikalski John                                                      
 A    10580  782 01     PROFESSIONAL DEVELOPMENT          1.0   20    7       13    0      TBA     TBA             ONLN  ONLINE     Christopher Sundar                                                   
+
 Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=AHS
 Y    11992  300 01     CAREER PREPARATION & PLANNING     1.0   50   11       39    0      T       11:20AM 12:15PM MOR   146        McDavid Nicole                                                       
+
 Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=ARH
+
 Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=ARS
+
 Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=AST
+
 Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=BLS
+
 Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=BSE
 T    10583  621 01     INT BIOINFORMATICS:COMP LAB AP    1.0    5    0        5    0      TBA     TBA             TBA   TBA        Cruz-Vera Luis                                                       
 T    10611  780 01     BIOTECHNOLOGY SCI/ENG SEMINAR     1.0   10    6        4    0      TBA     TBA             TBA   TBA        Sysoeva Tatyana                                                      
+
 Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=BUS
 A    10990  300 01     BUSINESS TRANSITIONS              1.0   30   30        0    0      TBA     TBA             ONLN  ONLINE     Brown Jean                                                           
 T    10991  300 02     BUSINESS TRANSITIONS              1.0   30   18       12    0      MW      11:20AM 12:15PM BAB   109        Foroughi Mona                                                        
+
 Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=BYS
 Y    10082  121 01     LABORATORY                        1.0   24   23        1    0      F       10:30AM 12:30PM SST   230        Niemiller Katharina                                                  
 Y    10083  121 02     LABORATORY                        1.0   24   14       10    0      F       02:15PM 04:15PM SST   230        Niemiller Katharina                                                  
@@ -41,6 +51,7 @@ T    12089  365 02     GENERAL BIOCHEMISTRY LAB II       1.0   12    6        6 
 T    10135  433 01     RESEARCH SEMINAR ATTENDANCE       1.0   30   14       16    0      F       12:00PM 01:00PM SST   109        Sysoeva Tatyana                                                      
 T    10246  690 01     SEMINAR                           1.0   20    5       15    0      F       12:00PM 01:00PM SST   109        Sysoeva Tatyana                                                      
 T    12426  699 04     MASTER'S THESIS                   1.0    1    1        0    0      TBA     TBA             TBA   TBA        Culumber Zachary                                                     
+
 Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=CE
 T    11802  373 01     SOIL MECHANICS LAB                1.0   15    2       13    0      F       09:00AM 12:00PM OKT   S224       Al-Hamdan Ashraf                                                     
 T    11803  373 02     SOIL MECHANICS LAB                1.0   15   12        3    0      R       01:00PM 04:00PM OKT   S224       Al-Hamdan Ashraf                                                     
@@ -53,7 +64,9 @@ T    11809  375 06     MECHANICS OF MATERIALS LAB        1.0    2    1        1 
 T    11810  375 07     MECHANICS OF MATERIALS LAB        1.0    2    2        0    0      W       07:40PM 10:35PM OKT   N227       Lin Mark                                                             
 T    11811  375 08     MECHANICS OF MATERIALS LAB        1.0    2    2        0    0      R       08:00AM 10:55AM OKT   N227       Lin Mark                                                             
 T    11812  375 09     MECHANICS OF MATERIALS LAB        1.0    2    2        0    1      R       02:20PM 05:35PM OKT   N227       Lin Mark                                                             
+
 Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=CFC
+
 Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=CH
 A    10345  105 01     INTRO CHEMISTRY LAB               1.0  100   45       55    0      TBA     TBA             ONLN  ONLINE     Hession Benjamin                                                     
 T    10346  105 02     INTRO CHEMISTRY LAB               1.0   20   17        3    0      T       08:30AM 11:30AM SST   251        Hession Benjamin                                                     
@@ -101,8 +114,11 @@ Z    10454  522 02     CHEMICAL INSTRUMENTATION LAB      1.0    0    0 Canceled 
 Z    10455  522 03     CHEMICAL INSTRUMENTATION LAB      1.0    0    0 Canceled    0      TBA     TBA             TBA   TBA        STAFF                                                                
 T    12106  699 05     MASTER'S THESIS                   1.0    0    0        0    0      TBA     TBA             TBA   TBA        STAFF                                                                
 T    10532  780 01     CHEMISTRY SEMINAR                 1.0   45    6       39    0      F       02:40PM 03:35PM MSB   112        Weimer Jeffrey                                                       
+
 Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=CHE
+
 Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=CM
+
 Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=CPE
 T    11024  324 01     ADV LOGIC DESIGN LABORATORY       1.0   15   15        0    0      TR      11:20AM 12:40PM ENG   228        Wells Buren                                                          
 T    11027  324 02     ADV LOGIC DESIGN LABORATORY       1.0   15   15        0    0      TR      01:00PM 02:20PM ENG   228        Wells Buren                                                          
@@ -116,13 +132,20 @@ T    11036  325 04     EMBEDDED SYSTEMS LAB              1.0   17   17        0 
 T    11037  325 05     EMBEDDED SYSTEMS LAB              1.0   17   17        0    0      F       09:40AM 12:40PM ENG   226        Milenkovic Aleksandar                                                
 T    11100  435 01     OPERATING SYSTEMS LABORATORY      1.0   35   32        3    0      F       01:00PM 04:00PM ENG   246        Werth Aaron                                                          
 T    11101  435 02     OPERATING SYSTEMS LABORATORY      1.0   35   35        0    0      MW      06:00PM 07:20PM ENG   246        Werth Aaron                                                          
+
 Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=CS
+
 Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=EA
+
 Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=ECH
+
 Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=ECN
+
 Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=ED
+
 Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=EDC
 A    11990  692 01     O & M INTERNSHIP                  1.0   10    1        9    0      TBA     TBA             ONLN  ONLINE     Thomas Susie                                                         
+
 Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=EE
 T    11249  203 01     DIGITAL LOGIC DESIGN LAB          1.0   12   12        0    0      M       01:00PM 04:00PM ENG   227        Hite Dennis                                                          
 T    11252  203 02     DIGITAL LOGIC DESIGN LAB          1.0   12   11        1    0      T       06:00PM 09:00PM ENG   227        Hite Dennis                                                          
@@ -142,18 +165,26 @@ T    11351  384 01     DIG SIGNAL PROCESS LAB            1.0   16    9        7 
 T    11352  384 02     DIG SIGNAL PROCESS LAB            1.0   16   16        0    0      TR      11:20AM 12:40PM ENG   109        Joiner Laurie                                                        
 T    11355  384 03     DIG SIGNAL PROCESS LAB            1.0   16    8        8    0      TR      06:00PM 07:20PM ENG   109        Joiner Laurie                                                        
 T    11358  384 04     DIG SIGNAL PROCESS LAB            1.0   16    8        8    0      MW      11:20AM 12:40PM ENG   109        Joiner Laurie                                                        
+
 Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=EGR
+
 Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=EH
 T    11038  463 01     CAPSTONE IN WRITING               1.0   25    7       18    0      T       09:40AM 10:40AM MOR   007        Weber Ryan                                                           
+
 Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=EM
+
 Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=ESL
+
 Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=ET
 Y    10626  434 01     INSTRUMENT & MEASUREMENT LAB      1.0   25    0       25    0      T       05:45PM 07:45PM SST   008        Henrie Alisa                                                         
 S    10627  434 02     INSTRUMENT & MEASUREMENT LAB      1.0   25   10       15    0      T       05:45PM 07:45PM ONLN  ONLINE     Henrie Alisa                                                         
+
 Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=FIN
 T    10907  330 01     FINANCE ACADEMY II                1.0   30    9       21    0      MW      08:45AM 10:35AM BAB   109        Gibson John                                                          
 T    10918  430 01     FINANCE ACADEMY III               1.0   30   12       18    0      MW      08:45AM 10:35AM BAB   109        Gibson John                                                          
+
 Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=FMA
+
 Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=FYE
 T    10247  101S 01    CHARGER SUCCESS - SCIENCE         1.0   30   24        6    0      MW      01:00PM 01:55PM OPB   234        Miller James                                                         
 T    10248  101S 02    CHARGER SUCCESS - SCIENCE         1.0   30   27        3    0      TR      09:40AM 10:35AM SST   203        Cooper Judy                                                          
@@ -164,8 +195,10 @@ T    10251  101S 06    CHARGER SUCCESS - SCIENCE         1.0   30   19       11 
 T    10252  101S 07    CHARGER SUCCESS - SCIENCE         1.0   20   20        0    0      MW      09:40AM 10:35AM LIB   111        Brasfield Vivian                                                     
 T    10253  101S 09    CHARGER SUCCESS - SCIENCE         1.0   30   11       19    0      MW      11:20AM 12:15PM BAB   223        Williamson James                                                     
 A    10254  101S 10    CHARGER SUCCESS - SCIENCE         1.0   20   20        0    1      TBA     TBA             ONLN  ONLINE     Smeal Mary                                                           
+
 Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=GS
 T    12503  450 01     GLOBAL PROFESSIONAL PORTFOLIO     1.0    1    1        0    0      TBA     TBA             TBA   TBA        Johnson David                                                        
+
 Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=HON
 T    10283  201 H01    SCHOLARSHIPS GRAD SCHOOL          1.0   12    7        5    0      TR      09:40AM 10:35AM MOR   108        Staton Jennifer                                                      
 S    10298  301 H06    HON SEM: PLATO AND FAKE NEWS      1.0   15    9        6    0      M       01:00PM 02:20PM ONLN  ONLINE     Layton Dakota                                                        
@@ -185,6 +218,7 @@ T    10332  401 H04    HON ENG MOONBUGGY DESIGN          1.0   10    3        7 
 T    10333  401 H05    HON ENG MISSIONS DES & DEV        1.0   10    1        9    0      TBA     TBA             TBA   TBA        Turner Matthew                                                       
 T    10334  401 H06    HON ENG ELECTRIC VEHICLE          1.0   10    1        9    0      TBA     TBA             TBA   TBA        Ginga Nicholas                                                       
 T    10335  401 H07    HON ENG SYSTEM ANALYSIS & DES     1.0   10    1        9    0      TBA     TBA             TBA   TBA        Kannan Hanumanthrao                                                  
+
 Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=HPE
 T    11780  127 01     LADIES SELF-DEFENSE               1.0   12    6        6    0      MW      06:00PM 06:55PM SPR   123        Copeland Jonathan                                                    
 T    11781  136 01     YOGA                              1.0   15   12        3    0      MW      08:00AM 08:55AM UFC   114        Worcester Cristina                                                   
@@ -196,17 +230,24 @@ T    11773  110 01     WALK/JOG/RUN                      1.0   30   10       20 
 T    11787  153 01     TENNIS                            1.0   20    0 Canceled    0      TBA     TBA             TBA   TBA        STAFF                                                                
 T    11788  169 01     BASKETBALL                        1.0   20    0 Canceled    0      TBA     TBA             TBA   TBA        STAFF                                                                
 T    11790  199 01     ST: PICKLEBALL                    1.0   15   12        3    0      F       11:20AM 12:40PM SPR   TCOURT     Kyle David                                                           
+
 Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=HY
+
 Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=IS
+
 Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=ISE
 T    10776  639 04     ST: Systems Integration           1.0   32    0 Canceled    0      TBA     TBA             TBA   TBA        STAFF                                                                
 T    10778  639 04R    ST: Systems Integration           1.0    0    0        0    0      TBA     TBA             TBA   TBA        STAFF                                                                
+
 Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=KIN
 T    11701  328 01     EXERCISE PHYSIOLOGY LAB           1.0   12   12        0    0      R       04:00PM 06:00PM WIL   331        Sarazen Alexander                                                    
 T    11705  328 02     EXERCISE PHYSIOLOGY LAB           1.0   12   11        1    0      F       10:00AM 12:00PM WIL   331        Sarazen Alexander                                                    
+
 Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=LIB
+
 Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=MA
 T    10206  399 01     PEDAGOGY COURSE FOR LAS           1.0   15    2       13    0      TBA     TBA             TBA   TBA        Lenahan Shelley                                                      
+
 Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=MAE
 T    10541  115 01     INTRODUCTION TO MACHINING         1.0    0    8       -8    2      T       11:20AM 02:20PM OKT   W100       Buckley Jonathan                                                     
 T    10542  115 02     INTRODUCTION TO MACHINING         1.0    0    8       -8    2      W       11:20AM 02:20PM OKT   W100       Buckley Jonathan                                                     
@@ -229,12 +270,18 @@ T    11866  451 01     HEAT & MASS TRANSFER LAB          1.0   16    4       12 
 T    11867  451 02     HEAT & MASS TRANSFER LAB          1.0   16   10        6    0      T       07:40PM 10:35PM OKT   N119       Zhang Guangsheng                                                     
 T    11868  451 03     HEAT & MASS TRANSFER LAB          1.0   16   12        4    0      W       08:00AM 10:55AM OKT   N119       Zhang Guangsheng                                                     
 T    11869  451 05     HEAT & MASS TRANSFER LAB          1.0   16   13        3    0      R       01:00PM 03:55PM OKT   N119       Zhang Guangsheng                                                     
+
 Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=MGT
+
 Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=MIL
+
 Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=MKT
+
 Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=MSC
+
 Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=MTS
 T    12161  780 01     MATERIALS SCIENCE SEMINAR         1.0   10    1        9    0      W       12:00PM 01:00PM OPB   TBA        Schneider Judith                                                     
+
 Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=MU
 T    11112  106 01     INTRO TO MUSIC TECHNOLOGY         1.0   15   14        1    0      MW      11:20AM 12:35PM ELC   TBA        Westmeyer Matthew                                                    
 T    11114  120 01     BEGINNING CLASS VOICE             1.0   15   12        3    0      TR      11:20AM 12:15PM ROB   201        Young Karen                                                          
@@ -243,6 +290,7 @@ T    11151  140 01     BEGINNING GUITAR CLASS            1.0   10    7        3 
 T    11167  203 01     MUSICIANSHIP SKILLS I             1.0   20   17        3    0      MW      01:00PM 01:55PM ROB   212        Hutson Leslie                                                        
 T    11172  303 01     MUSICIANSHIP SKILLS III           1.0   20    3       17    0      TR      11:20AM 12:40PM ROB   412        Hutson Leslie                                                        
 T    11182  404 01     MUSIC TECHNOLOGY INDIV PROJECT    1.0    5    0        5    0      TBA     TBA             TBA   TBA        Westmeyer Matthew                                                    
+
 Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=MUA
 T    11190  111 01     STUDIO INSTR-VOICE                1.0    5    2        3    0      TBA     TBA             TBA   TBA        Osuga Amalia                                                         
 T    11191  111 02     STUDIO INSTR-VOICE                1.0    8    7        1    0      TBA     TBA             TBA   TBA        Young Karen                                                          
@@ -270,7 +318,9 @@ T    11301  171 03     STUDIO INSTR-BRASS TUBA           1.0    5    0        5 
 Y    11304  171 04     STUDIO INSTR-BRASS HORN           1.0    5    0        5    0      TBA     TBA             TBA   TBA        Ortlepp Kenneth                                                      
 T    11397  181 01     STUDIO INSTR-PERCUSSION           1.0    5    2        3    0      TBA     TBA             TBA   TBA        Saddler Evan                                                         
 T    11399  191 01     STUDIO INSTR-COMPOSITION          1.0    5    0        5    0      TBA     TBA             TBA   TBA        Hutson Leslie                                                        
+
 Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=MUE
+
 Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=MUJ
 T    11574  131 01     JAZZ STUDIO INSTR-PIANO           1.0    5    1        4    0      TBA     TBA             TBA   TBA        Taylor Phillip                                                       
 T    11575  131 02     JAZZ STUDIO INSTR-PIANO           1.0    5    2        3    0      TBA     TBA             TBA   TBA        Miller John                                                          
@@ -279,6 +329,7 @@ T    11577  151 01     JAZZ STUDIO INSTRUCTION-BASS      1.0    5    0        5 
 T    11578  161 01     JAZZ STUDIO INSTR-WOODWINDS       1.0    5    2        3    0      TBA     TBA             TBA   TBA        Motz Steve                                                           
 T    11579  171 01     JAZZ STUDIO INSTR-BRASS           1.0    5    0        5    0      TBA     TBA             TBA   TBA        Watters Kenneth                                                      
 T    11580  181 01     JAZZ STUDIO INST-PERCUSSION       1.0    5    0        5    0      TBA     TBA             TBA   TBA        STAFF                                                                
+
 Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=MUX
 T    11590  389 01     UAH JAZZ ENSEMBLE                 1.0   25   10       15    0      TR      04:20PM 05:40PM BEV   280        Taylor Phillip                                                       
 T    11591  390 01     UAH CONCERT CHOIR                 1.0   60   21       39    0      MW      02:40PM 04:00PM ROB   201        Carey Matthew                                                        
@@ -289,17 +340,25 @@ T    11605  399 01     UAH WIND ENSEMBLE                 1.0   50   29       21 
 T    11606  590 01     UAH CONCERT CHOIR                 1.0   60    1       59    0      MW      02:40PM 04:00PM ROB   201        Carey Matthew                                                        
 T    11607  591 01     UAH CHAMBER CHOIR                 1.0   32    0       32    0      TR      02:40PM 04:00PM ROB   201        Carey Matthew                                                        
 T    11608  599 01     UAH WIND ENSEMBLE                 1.0   50    1       49    0      MW      04:20PM 05:40PM BEV   280        Hontz Jack                                                           
+
 Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=NUA
+
 Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=NUR
 T    11610  311 01     CLINICAL CALCULATIONS             1.0   20   19        1    0      W       03:15PM 04:15PM NUR   204A       Reynolds Charles                                                     
 T    11611  311 02     CLINICAL CALCULATIONS             1.0   25   14       11    0      W       03:15PM 04:15PM NUR   103B       Poole Jarmel                                                         
 T    11612  311 03     CLINICAL CALCULATIONS             1.0   25    0 Canceled    0      TBA     TBA             TBA   TBA        STAFF                                                                
 A    10979  734 81     ADVANCED EXPERIENTIAL CLINICAL    1.0   25    6       19    0      TBA     TBA             ONLN  ONLINE     Smith Lenora                                                         
+
 Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=NUS
+
 Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=OCS
+
 Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=OPE
+
 Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=OPT
+
 Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=OSE
+
 Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=PH
 T    11199  114 01     GENERAL PHYSICS LAB I             1.0   24    8       16    0      M       08:00AM 10:00AM SST   020A       Chronis Themistoklis                                                 
 T    11200  114 02     GENERAL PHYSICS LAB I             1.0   24   24        0    0      M       06:00PM 08:00PM SST   020A       Chronis Themistoklis                                                 
@@ -340,22 +399,33 @@ Z    11278  116 04     GENERAL PHYSICS LAB III           1.0    0    0 Canceled 
 T    11281  116 05     GENERAL PHYSICS LAB III           1.0   24    7       17    0      W       10:30AM 12:30PM SST   TBA        Chronis Themistoklis                                                 
 T    11286  251 01     SPECIAL RELATIVITY                1.0   35   23       12    0      M       04:10PM 05:30PM MSB   112        Walker Stephen                                                       
 T    11333  792 01     PHYSICS SEMINAR                   1.0   50   15       35    0      W       02:50PM 03:50PM OPB   234        Chakrabarti Sukanya                                                  
+
 Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=PHL
+
 Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=PRO
 A    10647  301 01     FOUNDATIONS ADULT LEARNING        1.0   25   10       15    0      TBA     TBA             ONLN  ONLINE     Crawford Kellee                                                      
+
 Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=PSC
+
 Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=PY
 T    10430  304 01     PSYCHOLOGICAL STATISTICS LAB      1.0   29   14       15    0      M       02:40PM 04:00PM LIB   206        Neuschatz Jeffrey                                                    
 T    10431  304 02     PSYCHOLOGICAL STATISTICS LAB      1.0   29   15       14    0      W       02:40PM 04:00PM LIB   206        Neuschatz Jeffrey                                                    
 T    10432  305 01     PY RESEARCH METHODS LAB           1.0   20   18        2    0      T       04:20PM 05:40PM LIB   205        Tykol Lauren                                                         
 Y    10457  608 01     GRAD PRACT TCHG & CAREER EXPLO    1.0   15    7        8    0      W       11:20AM 12:40PM MOR   124        Torres Aurora                                                        
+
 Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=SFM
+
 Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=SOC
 T    10264  304 01     STATISTICS LAB                    1.0   20    8       12    0      T       01:00PM 02:20PM LIB   211        Thomson Robert                                                       
+
 Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=SPA
 T    10010  771 01     COMPETITIVE GRANT WRITING WKSP    1.0   12    1       11    0      F       11:00AM 12:00PM CRH   2076       Li Gang                                                              
 T    10011  796 01     JOURNAL CLUB                      1.0   11    8        3    0      F       10:00AM 11:00AM CRH   2076       Li Gang                                                              
+
 Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=SSC
+
 Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=TH
+
 Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=WGS
+
 Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=WLC

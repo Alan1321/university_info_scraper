@@ -1,23 +1,10 @@
 from scrape import scrape_all
 from constants import BASE_URL, course_abbreviations
-import pandas as pd
-from io import StringIO
 from process_data import process_data
-
-debugger = True
-
-# for course in course_abbreviations:
-#     complete_url = f"{BASE_URL}{course}"
-#     debugger and print(f'Complete URL: {complete_url}')
-
-#     #scrape the data from webpage
-#     data = scrape_all(complete_url)
-
-#     print(data)
 
 for course in course_abbreviations:
     complete_url = f"{BASE_URL}{course}"
-    debugger and print(f'Complete URL: {complete_url}')
+    print(f'\nComplete URL: {complete_url}')
 
     #scrape the data from webpage
     data = scrape_all(complete_url, course)
