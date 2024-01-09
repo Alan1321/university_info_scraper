@@ -11,10 +11,8 @@ Welcome to this project! To get started, follow the steps below:
     ```
 
 2. Edit the constants in the `constants.py` file to customize the behavior of the project.
-    '''python
-    # constants.py
-    '''
     Replace TERM in constants.py with fall or sprng and the year you want the data from
+    Replace credit_hour with whatever you want but it should have .0 at the end
 
 ## Running the Project
 
