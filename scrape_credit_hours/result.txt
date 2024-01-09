@@ -222,7 +222,7 @@ T    10335  401 H07    HON ENG SYSTEM ANALYSIS & DES     1.0   10    1        9 
 Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=HPE
 T    11780  127 01     LADIES SELF-DEFENSE               1.0   12    6        6    0      MW      06:00PM 06:55PM SPR   123        Copeland Jonathan                                                    
 T    11781  136 01     YOGA                              1.0   15   12        3    0      MW      08:00AM 08:55AM UFC   114        Worcester Cristina                                                   
-T    11782  136 02     YOGA                              1.0   15    8        7    0      MW      01:00PM 01:55PM UFC   114        Newton Suzanne                                                       
+T    11782  136 02     YOGA                              1.0   15    7        8    0      MW      01:00PM 01:55PM UFC   114        Newton Suzanne                                                       
 T    11783  136 03     YOGA                              1.0   15   14        1    0      TR      08:00AM 08:55AM UFC   114        Worcester Cristina                                                   
 T    11784  136 04     YOGA                              1.0   15    0 Canceled    0      TBA     TBA             TBA   TBA        STAFF                                                                
 T    11789  170 01     VOLLEYBALL                        1.0   20   17        3    0      MW      11:20AM 12:15PM SPR   GYM        Laatsch Allison                                                      
@@ -332,7 +332,7 @@ T    11580  181 01     JAZZ STUDIO INST-PERCUSSION       1.0    5    0        5 
 
 Complete URL: https://www.uah.edu/cgi-bin/schedule.pl?file=sprg2024.html&segment=MUX
 T    11590  389 01     UAH JAZZ ENSEMBLE                 1.0   25   10       15    0      TR      04:20PM 05:40PM BEV   280        Taylor Phillip                                                       
-T    11591  390 01     UAH CONCERT CHOIR                 1.0   60   21       39    0      MW      02:40PM 04:00PM ROB   201        Carey Matthew                                                        
+T    11591  390 01     UAH CONCERT CHOIR                 1.0   60   20       40    0      MW      02:40PM 04:00PM ROB   201        Carey Matthew                                                        
 T    11592  391 01     UAH CHAMBER CHOIR                 1.0   32    9       23    0      TR      02:40PM 04:00PM ROB   201        Carey Matthew                                                        
 T    11593  395 01     OPERA WORKSHOP                    1.0   10    3        7    0      WF      11:20AM 12:40PM ROB   100        Osuga Amalia                                                         
 T    11604  397 01     UNIVERSITY BAND                   1.0   50   14       36    0      U       07:00PM 10:00PM BEV   280        Harris Brent                                                         
